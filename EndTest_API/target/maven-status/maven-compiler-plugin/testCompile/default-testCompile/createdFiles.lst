@@ -1,0 +1,5 @@
+com\stepdefination\AppStepdef.class
+com\runner\Testrunner.class
+com\stepdefination\OsStepdef.class
+com\stepdefination\AnimationStepdef.class
+com\stepdefination\PreferencesStepdef.class

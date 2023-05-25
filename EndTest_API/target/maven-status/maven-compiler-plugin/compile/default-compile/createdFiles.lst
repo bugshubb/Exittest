@@ -1,0 +1,4 @@
+com\locators\Basepage.class
+com\driver\Appium.class
+com\utilities\Screenshot.class
+com\utilities\Test_Data_From_Excel.class
